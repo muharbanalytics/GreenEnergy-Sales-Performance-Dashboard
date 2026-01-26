@@ -86,7 +86,7 @@ Deals Won Last Qtr = CALCULATE([Deals Won], DATEADD('processed_sales_data'[close
 * *Slicers:* Adding interactivity to allow the manager to filter the entire report by Regional Office (e.g., "West") or Manager Name.
 * *Visual Hierarchy:* Using a bar chart for agent performance and a pie chart for overall win/loss percentages, sorted so the "Won" slice is emphasized.<br/>
 
-[Interactive Dashboard](https://app.powerbi.com/groups/me/reports/89e9e26f-30c9-4105-9794-3f70e028b3dc/01a393b78e95e015e9c8?experience=power-bi)
+[Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZGViNDFjZGMtMjljMi00M2Y4LWFiMzYtODQ4YjRiNDczZjRiIiwidCI6IjlhMDcxNDEwLTcyZmItNDgxNi05ZTQ0LWU4ODJkYjc4MGI2NyJ9)
 
 ---
 
